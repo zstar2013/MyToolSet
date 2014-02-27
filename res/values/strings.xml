@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MyToolSetActivity!</string>
+    <string name="app_name">MyToolSet</string>
+	<string name="Ensure">"确定"</string>
+	<string name="Cancel">"取消"</string>
+	<string name="Sunday">星期日</string>
+	<string name="Monday">星期一</string>
+	<string name="Tuesday">星期二</string>
+	<string name="Wednesday">星期三</string>
+	<string name="Thursday">星期四</string>
+	<string name="Firday">星期五</string>
+	<string name="Saturday">星期六</string>
+</resources>
